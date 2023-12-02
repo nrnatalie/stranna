@@ -1,0 +1,514 @@
+[
+  {
+  "id": 1,
+  "name": "Indonesia",
+  "capital": "Jakarta",
+  "image": "https://images.unsplash.com/photo-1539367628448-4bc5c9d171c8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEJhbGl8ZW58MHx8MHx8fDA%3D",
+  "characteristics": {
+  "description": "Indonesia is a Southeast Asian nation made up of thousands of volcanic islands. It is known for its beautiful beaches, volcanoes, and jungles sheltering elephants, tigers, and Komodo dragons. The capital city is Jakarta.",
+   "population": "273.5 million",
+    "language": "Indonesian (official), Javanese, Sundanese, others",
+    "currency": "Indonesian Rupiah (IDR)"
+  }
+},
+  {
+  "id": 2,
+  "name": "Malaysia",
+  "capital": "Kuala Lumpur",
+  "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+   "characteristics": {
+  "description": "Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, rainforests, and mix of Malay, Chinese, Indian, and European cultural influences. The capital city is Kuala Lumpur.","population": "32.7 million",
+  "population": "210.5 million",
+   "language": "Malay (official), English, Chinese, Tamil",
+   "currency": "Malaysian Ringgit (MYR)"
+  }
+
+  },
+
+{
+  "id": 3,
+  "name": "Philippines",
+  "capital": "Manila",
+  "image": "https://images.unsplash.com/photo-1542533382-b42a59d8bd39?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "The Philippines is an archipelagic country in Southeast Asia situated in the western Pacific Ocean. It consists of about 7,641 islands and is known for its beautiful beaches, stunning landscapes, and rich biodiversity.",
+  "population": "110 million",
+    "language": "Filipino (official), English",
+    "currency": "Philippine Peso (PHP)"
+  }
+},
+{
+  "id": 4,
+  "name": "Portugal",
+  "capital": "Lisbon",
+  "image": "https://images.unsplash.com/photo-1569959220744-ff553533f492?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Portugal, located in Southern Europe, is known for its rich history, stunning beaches, and delicious cuisine. It is home to approximately 10.3 million people and boasts a diverse culture. Lisbon, the capital city, is famous for its historic architecture, vibrant neighborhoods, and lively atmosphere.",
+  "population": "10.3 million",
+    "language": "Portuguese",
+    "currency": "Euro (EUR)"
+  }
+},
+{
+  "id": 5,
+  "name": "Kenya",
+  "capital": "Nairobi",
+  "image": "https://images.unsplash.com/photo-1596005554384-d293674c91d7?q=80&w=1798&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Kenya, situated in East Africa, is known for its diverse wildlife, beautiful landscapes, and rich culture. With a population of approximately 52.6 million people, Kenya is a country of vibrant traditions and languages. Nairobi, the capital city, is a bustling hub of commerce and culture, offering a mix of modernity and natural beauty.",
+   "population": "52.6 million",
+    "language": "Swahili, English",
+    "currency": "Kenyan Shilling (KES)"
+  }
+},
+{
+  "id": 6,
+  "capital": "Gran Canaria",
+  "name": "Island",
+  "image": "https://images.unsplash.com/photo-1516091877740-fde016699f2c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Gran Canaria is the third-largest and second-most populous island of the Canary Islands, an archipelago in the Atlantic Ocean. It is known for its stunning beaches, diverse landscapes, and vibrant nightlife. The island boasts a population of approximately 863,000 people, with Spanish being the primary language spoken. Las Palmas de Gran Canaria serves as the capital city. The currency used on the island is the Euro.",
+   "population": "863,000",
+    "language": "Spanish",
+    "capital": "Las Palmas de Gran Canaria",
+    "currency": "Euro"
+  }
+
+  },
+ {
+  "id": 7,
+  "capital": "Split",
+  "name": "Croatia",
+  "image": "https://images.unsplash.com/photo-1533331639-74f1863c7b3c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Croatia, located in Southeast Europe, is a country known for its stunning Adriatic coastline, beautiful islands, and rich cultural heritage. With a population of approximately 4.07 million people, the country's official language is Croatian, and its capital city is Zagreb. The currency used in Croatia is the Kuna.",
+  "population": "4.07 million",
+    "language": "Croatian",
+    "capital": "Zagreb",
+    "currency": "Kuna"
+  }
+
+  },
+ {
+  "id": 8,
+  "capital": "Budapest",
+  "name": "Hungary",
+  "image": "https://plus.unsplash.com/premium_photo-1680721310331-7c5bea03392d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Hungary, located in Central Europe, is known for its rich history, beautiful architecture, and vibrant cultural scene. Budapest, the capital city, is famous for its stunning landmarks like the Buda Castle, Parliament Building, and Széchenyi Chain Bridge. The country boasts a diverse landscape, including the scenic Danube River, thermal springs, and the Great Plain. Hungarian cuisine, renowned for dishes like goulash and chimney cake, adds to the country's charm.",
+  "population": "9.7 million",
+    "language": "Hungarian",
+    "capital": "Budapest",
+    "currency": "Forint"
+  }
+
+  },
+ {
+    "id": 9,
+    "capital": "London",
+    "name": "United Kingdom",
+    "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+    "description": "The United Kingdom, made up of England, Scotland, Wales, and Northern Ireland, is an island nation in northwestern Europe. London, the capital, is renowned for its history, culture, and diversity.",
+     "population": "66.7 million",
+      "language": "English",
+      "capital": "London",
+      "currency": "Pound sterling"
+    }
+  },
+  {
+    "id": 10,
+    "capital": "Delhi",
+    "name": "India",
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+    "description": "India, officially the Republic of India, is a country in South Asia. It is known for its rich cultural heritage, historical monuments, and diverse landscapes.",
+    "population": "1.366 billion",
+      "language": "Hindi, English",
+      "capital": "New Delhi",
+      "currency": "Indian Rupee"
+    }
+  },
+  {
+    "id": 11,
+    "capital": "Hong Kong",
+    "name": "Hong Kong",
+    "image": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+    "description": "Hong Kong is a special administrative region of China, located on the southeastern coast. It is known for its skyline, deep natural harbor, and vibrant cultural scene.",
+     "population": "7.5 million",
+      "language": "Cantonese, English",
+      "capital": "Hong Kong",
+      "currency": "Hong Kong dollar"
+    }
+  },
+{
+    "id": 12,
+    "capital": "Mexico City",
+    "name": "Mexico",
+    "image": "https://images.unsplash.com/photo-1605216663800-d563ef404eef?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+    "description": "Mexico, officially the United Mexican States, is a country in the southern part of North America. It is known for its rich cultural heritage, ancient history, and delicious cuisine.",
+     "population": "126.2 million",
+      "language": "Spanish",
+      "capital": "Mexico City",
+      "currency": "Mexican Peso"
+    }
+  },
+  {
+    "id": 13,
+    "capital": "Athens",
+    "name": "Greece",
+    "image": "https://images.unsplash.com/photo-1530841377377-3ff06c0ca713?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+    "description": "Greece, officially the Hellenic Republic, is a country located in southeastern Europe. It is famous for its ancient history, stunning islands, and contributions to philosophy and democracy.",
+     "population": "10.4 million",
+      "language": "Greek",
+      "capital": "Athens",
+      "currency": "Euro"
+    }
+  },
+  {
+    "id": 14,
+    "capital": "Seoul",
+    "name": "South Korea",
+    "image": "https://images.unsplash.com/photo-1603685568213-4a73be6efdaf?q=80&w=1819&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+    "description": "South Korea, officially the Republic of Korea, is a country in East Asia, known for its technological advancements, rich culture, and delicious cuisine, including kimchi and bibimbap.",
+    "population": "51.8 million",
+      "language": "Korean",
+      "capital": "Seoul",
+      "currency": "South Korean Won"
+    }
+  },
+{
+  "id": 15,
+  "capital": "Tokyo",
+  "name": "Japan",
+  "image": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Japan, an island country in East Asia, is famous for its unique blend of traditional culture and modern technology. Tokyo, the bustling capital city, is known for its futuristic skyscrapers, vibrant street scenes, and historic temples. Japan is home to stunning natural landscapes, including Mount Fuji, cherry blossom trees, and serene countryside. Japanese cuisine, such as sushi, ramen, and tempura, is celebrated worldwide for its flavors and artful presentation.",
+"population": "Approximately 126.3 million",
+    "language": "Japanese",
+    "capital": "Tokyo",
+    "currency": "Japanese Yen (JPY)"
+  }
+
+  },
+ {
+  "id": 16,
+  "capital": "Medellin",
+  "name": "Colombia",
+  "image": "https://images.unsplash.com/photo-1576018753502-1a55b66cc44a?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Colombia, located in South America, is known for its rich biodiversity, vibrant culture, and stunning landscapes. The capital, Bogotá, is a bustling metropolis nestled in the Andes Mountains. The country boasts diverse terrains, from lush rainforests and beautiful beaches on the Caribbean and Pacific coasts to the Amazon rainforest. Colombia is renowned for its coffee production and has a rich cultural heritage, reflected in its music, dance, and festivals.",
+ "population": "Approximately 50.34 million",
+    "language": "Spanish",
+    "capital": "Bogotá",
+    "currency": "Colombian Peso (COP)"
+  }
+},
+  
+{
+  "id": 17,
+  "capital": "Queenstown",
+  "name": "New Zealand",
+  "image": "https://images.unsplash.com/photo-1540808450974-f61b32d7db7d?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "New Zealand, situated in the southwestern Pacific Ocean, is known for its breathtaking landscapes, including mountains, lakes, beaches, and forests. The country comprises two main islands, North Island and South Island, each offering unique natural wonders and outdoor activities. Wellington, the capital, is famous for its vibrant arts scene and is located on the North Island. New Zealand is renowned for its Maori culture, adventure sports, and friendly locals.",
+  "population": "Approximately 5 million",
+    "language": "English, Maori",
+    "capital": "Wellington",
+    "currency": "New Zealand Dollar (NZD)"
+  }
+},
+{
+  "id": 18,
+  "capital": "Paris",
+  "name": "France",
+  "image": "https://images.unsplash.com/photo-1508050919630-b135583b29ab?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "France, located in Western Europe, is renowned for its rich history, culture, and contributions to the arts, fashion, and cuisine. Paris, the capital city, is famous for iconic landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. The country offers diverse landscapes, including beautiful countryside, vineyards, beaches on the French Riviera, and the majestic French Alps. French, the official language, is spoken throughout the country.",
+ "population": "Approximately 67 million",
+    "language": "French",
+    "capital": "Paris",
+    "currency": "Euro (EUR)"
+  }
+
+  },
+{
+  "id": 19,
+  "capital": "Cuenca",
+  "name": "Ecuador",
+  "image": "https://images.unsplash.com/photo-1628004581461-13dd6f81ed07?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Ecuador, a country in northwestern South America, is known for its incredible biodiversity and stunning landscapes. It's home to the Amazon rainforest, the Andes Mountains, and the Galapagos Islands, which inspired Charles Darwin's theory of evolution. Quito, the capital, is known for its well-preserved colonial center. The official language is Spanish, and the country uses the United States dollar as its currency.",
+"population": "Approximately 17 million",
+    "language": "Spanish",
+    "capital": "Cuenca",
+    "currency": "United States dollar (USD)"
+  }
+},
+{
+  "id": 20,
+  "capital": "Wellington",
+  "name": "New Zealand",
+  "image": "https://images.unsplash.com/photo-1531804159968-24716780d214?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "New Zealand, an island country in the southwestern Pacific Ocean, comprises two main landmasses: the North Island and the South Island, along with numerous smaller islands. Known for its stunning landscapes, it's home to diverse wildlife and unique ecosystems. Wellington, the capital, is famous for its vibrant arts scene and the iconic Beehive parliament building. English and Māori are the official languages, and the currency used is the New Zealand dollar.",
+  "population": "Approximately 5 million",
+    "language": "English, Māori",
+    "capital": "Wellington",
+    "currency": "New Zealand dollar (NZD)"
+  }
+
+  },
+
+  {
+  "id": 21,
+  "capital": "Istanbul",
+  "name": "Turkey",
+  "image": "https://plus.unsplash.com/premium_photo-1661955588369-b0d28de38b45?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Turkey, a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a smaller portion on the Balkans in Southeast Europe. Its vibrant culture blends Eastern and Western influences, evident in its rich history, architecture, and cuisine. Istanbul, the largest city, straddles Europe and Asia across the Bosphorus Strait and is renowned for its historic landmarks like the Hagia Sophia and the Blue Mosque. Turkish is the official language, and the currency used is the Turkish lira.",
+"population": "Approximately 83 million",
+    "language": "Turkish",
+    "capital": "Ankara",
+    "currency": "Turkish lira (TRY)"
+  }
+},
+{
+  "id": 22,
+  "capital": "Bogota",
+  "name": "Colombia",
+  "image": "https://plus.unsplash.com/premium_photo-1673306773569-4d864b99c96c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Colombia, a country in northern South America, known for its diverse culture, rich heritage, and breathtaking landscapes. Its capital, Bogota, is a vibrant metropolis situated in the Andes mountains. Colombia boasts a mix of modernity and tradition, with a population that embraces various ethnicities, languages, and traditions. Spanish is the official language, and the Colombian peso is the currency.",
+  "population": "Approximately 51 million",
+    "language": "Spanish",
+    "capital": "Bogota",
+    "currency": "Colombian peso (COP)"
+  }
+
+  },
+{
+  "id": 23,
+  "capital": "Kuala Lumpur",
+  "name": "Malaysia",
+  "image": "https://images.unsplash.com/photo-1596018138885-b88eb554411c?q=80&w=1966&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Malaysia, a Southeast Asian country, is known for its diverse culture, stunning landscapes, and bustling cities. Kuala Lumpur, its capital, is a modern metropolis famous for the iconic Petronas Twin Towers. Malaysia boasts a mix of Malay, Chinese, Indian, and indigenous influences, creating a vibrant society with a rich culinary heritage. Bahasa Malaysia is the official language, and the currency is the Malaysian ringgit (MYR).",
+"population": "Approximately 32 million",
+    "language": "Bahasa Malaysia",
+    "capital": "Kuala Lumpur",
+    "currency": "Malaysian ringgit (MYR)"
+  }
+
+  },
+{
+  "id": 24,
+  "capital": "Kathmandu",
+  "name": "Nepal",
+  "image": "https://images.unsplash.com/photo-1518002054494-3a6f94352e9d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Nepal is a country in South Asia. It is a unique country with a rich history and cultural heritage. It is famous for its magnificent mountains, including Everest, sacred temples, and ancient monuments.",
+ "population": "30,747,631",
+  "language": "Nepali, Maithili, Bhojpuri",
+    "currency": "Nepalese Rupee (NPR)"
+}
+
+},
+{
+  "id": 25,
+  "capital": "Valencia",
+  "name": "Spain",
+  "image": "https://images.unsplash.com/photo-1558642084-fd07fae5282e?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Spain is an amazing country in Southern Europe, known for its cultural landmarks, beautiful beaches, delicious cuisine, and festive atmosphere.",
+"population": "46,940,000",
+  "language": "Spanish",
+    "currency": "Euro (EUR)"
+}
+},
+{
+  "id": 26,
+  "capital": "Tainan",
+  "name": "Taiwan",
+  "image": "https://images.unsplash.com/photo-1571474004502-c1def214ac6d?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Taiwan is an island country in the Pacific Ocean. It is known for its beautiful natural landscapes, modern cities, and diverse culture.",
+ "population": "23,571,000",
+  "language": "Mandarin",
+  "currency": "New Taiwan Dollar (TWD)"
+}
+},
+{
+  "id": 27,
+  "capital": "Tainan",
+  "name": "Taiwan",
+  "image": "https://images.unsplash.com/photo-1571474004502-c1def214ac6d?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Taiwan is an island country in East Asia. It boasts a diverse culture, vibrant cities, stunning landscapes, and delicious cuisine. Known for its technological advancements, Taiwan is a blend of tradition and modernity.",
+ "population": "23,571,000",
+  "language": "Mandarin",
+  "currency": "New Taiwan Dollar (TWD)"
+}
+},
+{
+  "id": 28,
+  "capital": "Chengdu",
+  "name": "China",
+  "image": "https://images.unsplash.com/photo-1517309230475-6736d926b979?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "China is a vast and diverse country in East Asia. Known for its rich history, ancient landmarks, diverse culture, and technological advancements, China is one of the world's oldest civilizations.",
+ "population": "1,444,216,107",
+  "language": "Mandarin",
+  "currency": "Renminbi (CNY)"
+}
+},
+{
+  "id": 29,
+  "capital": "Almaty",
+  "name": "Kazakhstan",
+  "image": "https://images.unsplash.com/photo-1557841066-eefe351308b3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Kazakhstan is a transcontinental country located mainly in Central Asia. It is known for its vast landscapes, rich cultural heritage, and nomadic traditions. With a diverse population, Kazakhstan embraces its multicultural heritage.",
+  "population": "18,994,962",
+  "language": "Kazakh, Russian",
+  "currency": "Kazakhstani Tenge (KZT)"
+}
+},
+{
+  "id": 30,
+  "capital": "Groningen",
+  "name": "Netherlands",
+  "image": "https://plus.unsplash.com/premium_photo-1661915282028-ecec0eafd746?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "The Netherlands, often referred to as Holland, is a country located in Western Europe. Known for its flat landscape, picturesque windmills, tulip fields, and extensive canal systems, the Netherlands is a beautiful blend of modernity and tradition.",
+ "population": "17,474,886",
+  "language": "Dutch",
+  "currency": "Euro (EUR)"
+}
+},
+{
+  "id": 31,
+  "capital": "Fukuoka",
+  "name": "Japan",
+  "image": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Japan, an island nation in East Asia, is known for its rich culture, technology, and historic landmarks. From serene temples to bustling cities, Japan offers a unique blend of traditional heritage and modern innovation.",
+  "population": "125,584,838",
+  "language": "Japanese",
+  "currency": "Japanese Yen (JPY)"
+}
+},
+{
+  "id": 32,
+  "capital": "Dahab",
+  "name": "Egypt",
+  "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Egypt, located in North Africa, is famous for its ancient civilization, including the majestic pyramids, temples, and the Nile River. With a rich history that spans thousands of years, Egypt is a treasure trove of cultural heritage.",
+ "population": "104,258,327",
+  "language": "Arabic",
+  "currency": "Egyptian Pound (EGP)"
+}
+},
+{
+  "id": 33,
+  "capital": "Marrakesh",
+  "name": "Morocco",
+  "image": "https://images.unsplash.com/photo-1610577884911-acd4cd21dcaf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Morocco, situated in North Africa, is known for its vibrant culture, diverse landscapes, and ancient cities. From the bustling souks to the Sahara Desert, Morocco offers a unique blend of history, tradition, and natural beauty.",
+ "population": "37,344,795",
+  "language": "Arabic, Berber",
+  "currency": "Moroccan Dirham (MAD)"
+}
+},
+{
+  "id": 34,
+  "capital": "Toronto",
+  "name": "Canada",
+  "image": "https://images.unsplash.com/photo-1542704792-e30dac463c90?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Canada, located in North America, is renowned for its stunning natural beauty, diverse culture, and welcoming communities. With vast landscapes, vibrant cities, and an array of outdoor activities, Canada offers something for everyone.",
+ "population": "38,421,209",
+  "language": "English, French",
+  "currency": "Canadian Dollar (CAD)"
+}
+},
+{
+  "id": 35,
+  "capital": "Vienna",
+  "name": "Austria",
+  "image": "https://images.unsplash.com/photo-1597086831879-756db15e81d3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Austria, a country in Central Europe, is known for its rich cultural heritage, classical music, and stunning Alpine landscapes. From historic palaces to picturesque villages, Austria offers a blend of history, art, and natural beauty.",
+  "population": "8,891,388",
+  "language": "German",
+  "currency": "Euro (EUR)"
+}
+},
+{
+  "id": 36,
+  "capital": "Copenhagen",
+  "name": "Denmark",
+  "image": "https://images.unsplash.com/photo-1532698355571-f845d2cc8151?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Denmark, a Scandinavian country in Northern Europe, is known for its rich history, modern lifestyle, and stunning landscapes. With its mix of vibrant cities and picturesque countryside, Denmark offers a high quality of life and a strong sense of cultural heritage.",
+ "population": "5,845,513",
+  "language": "Danish",
+  "currency": "Danish Krone (DKK)"
+}
+},
+{
+  "id": 37,
+  "capital": "Jakarta",
+  "name": "Indonesia",
+  "image": "https://images.unsplash.com/photo-1578388505654-618133a6b38f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Indonesia, located in Southeast Asia, is renowned for its diverse culture, stunning natural beauty, and thousands of islands. With bustling cities, ancient temples, and pristine beaches, Indonesia offers a unique experience for travelers.",
+ "population": "276,361,783",
+  "language": "Indonesian",
+  "currency": "Indonesian Rupiah (IDR)"
+}
+},
+{
+  "id": 38,
+  "capital": "Batumi",
+  "name": "Georgia",
+  "image": "https://images.unsplash.com/photo-1625566360146-918001e76064?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Georgia, situated at the intersection of Europe and Asia, is known for its ancient history, diverse culture, and scenic landscapes. From mountainous terrains to historic sites, Georgia offers a blend of tradition, hospitality, and natural beauty.",
+"population": "3,716,858",
+  "language": "Georgian",
+  "currency": "Georgian Lari (GEL)"
+}
+},
+{
+  "id": 39,
+  "capital": "Fortaleza",
+  "name": "Brazil",
+  "image": "https://images.unsplash.com/photo-1616969627028-619ae07818da?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+  "description": "Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. It is the world's fifth-largest country by area and the sixth most populous. Brazil's capital is Fortaleza, and its most populous city is São Paulo.",
+"population": "Approximately 213.99 million",
+  "language": "Portuguese",
+  "currency": "Brazilian Real (BRL)"
+}
+  },
+ {
+  "id": 40,
+  "name": "Italy",
+  "capital": "Rome",
+ "image": "https://images.unsplash.com/photo-1627635536814-29f15dbc5f49?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "characteristics": {
+"description": "Italy, officially the Italian Republic, is a European country consisting of a peninsula delimited by the Alps and several islands. Italy's capital and largest city is Rome, and the country covers a total area of 301,340 km², making it the 72nd largest country in the world.",
+ "population": "Approximately 60.36 million",
+  "language": "Italian",
+  "currency": "Euro (EUR)"
+}
+  }
+ 
+]
